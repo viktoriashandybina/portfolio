@@ -9,7 +9,7 @@
 [3 курс][3]<br>
 [4 курс][4]<br>
 
-[1]:
-[2]:
-[3]:
-[4]:
+[1]: https://viktoriashandybina.github.io/1/
+[2]: https://viktoriashandybina.github.io/2/
+[3]: https://viktoriashandybina.github.io/3/
+[4]: https://viktoriashandybina.github.io/4/
